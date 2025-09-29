@@ -73,58 +73,6 @@ Un juego de ajedrez completo con inteligencia artificial, multijugador online y 
 🏗️ Arquitectura del Proyecto
 ```bash
 Java_Chess_V2
-├── bin
-│   ├── main
-│   │   ├── AIMove.class
-│   │   ├── AIPlayer.class
-│   │   ├── Board.class
-│   │   ├── GameConfig.class
-│   │   ├── GameHistory.class
-│   │   ├── GameMode.class
-│   │   ├── GamePanel.class
-│   │   ├── Main$1.class
-│   │   ├── Main.class
-│   │   ├── Mouse.class
-│   │   ├── MusicPlayer.class
-│   │   ├── OnlineGame.class
-│   │   ├── OnlineManager.class
-│   │   ├── PieceSetManager.class
-│   │   ├── Type.class
-│   │   ├── User.class
-│   │   └── UserManager.class
-│   ├── music
-│   │   ├── base_music.wav
-│   │   ├── music_2.wav
-│   │   ├── music_3.wav
-│   │   ├── music_4.wav
-│   │   └── music_5.wav
-│   └── piece
-│       ├── b-bishop.png
-│       ├── Bishop.class
-│       ├── b-king.png
-│       ├── b-knight.png
-│       ├── b-pawn.png
-│       ├── b-queen.png
-│       ├── b-rook.png
-│       ├── King.class
-│       ├── Knight.class
-│       ├── Pawn.class
-│       ├── Piece.class
-│       ├── Queen.class
-│       ├── Rook.class
-│       ├── w-bishop.png
-│       ├── w-king.png
-│       ├── w-knight.png
-│       ├── w-pawn.png
-│       ├── w-queen.png
-│       └── w-rook.png
-├── music
-│   └── music
-│       ├── base_music.wav
-│       ├── music_2.wav
-│       ├── music_3.wav
-│       ├── music_4.wav
-│       └── music_5.wav
 ├── README.md
 ├── res
 │   └── piece
