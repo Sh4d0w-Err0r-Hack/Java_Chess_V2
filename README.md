@@ -1,11 +1,14 @@
 🏆 Ajedrez Maestro - Juego de Ajedrez Multijugador en Java
 <div align="center">
-https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java
-https://img.shields.io/badge/Java%2520Swing-GUI-blue?style=for-the-badge
-https://img.shields.io/badge/Multijugador-Online-green?style=for-the-badge
-https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge
+![Java17+](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java)
+![JavaSwing](https://img.shields.io/badge/Java%2520Swing-GUI-blue?style=for-the-badge)
+![ONLINE](https://img.shields.io/badge/Multijugador-Online-green?style=for-the-badge)
+![LICENCIA](https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge)
 
 Un juego de ajedrez completo con inteligencia artificial, multijugador online y personalización avanzada
+
+## Tabla de Contenidos
+-[🎯 Características Principales](#-características-principales)
 
 Características • Tecnologías • Instalación • Gameplay
 
