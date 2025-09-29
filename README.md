@@ -8,17 +8,16 @@
 Un juego de ajedrez completo con inteligencia artificial, multijugador online y personalización avanzada
 
 ## Tabla de Contenidos
-- [ 🎯 Características Principales](#-caracteristicas-principales)
-- [ ⚡ Características Avanzadas](#-caracteristicas-avanzadas)
-- [ 🛠️ Tecnologías y Arquitectura](#-tecnologias-y-arquitectura)
-- [ 🧠 Lógica del Juego](#-logica-del-juego)
-- [ 🔧 Patrones de Diseño Implementados](#-patrones-de-diseño-implementados)
-- [ 🚀 Instalación y Ejecución](#-instalacion-y-ejecucion)
-- [ 🎮 Gameplay](#-gameplay)
-- [ 📊 Especificaciones Técnicas Detalladas](#-especificaciones-tecnicas-detalladas)
-- [ 🎯 Roadmap Futuro](#-roadmap-futuro)
-- [ 👥 Contribuciones](#-contribuciones)
-
+- [🎯 Características Principales](#-características-principales)
+- [⚡ Características Avanzadas](#-características-avanzadas)
+- [🛠️ Tecnologías y Arquitectura](#-tecnologías-y-arquitectura)
+- [🧠 Lógica del Juego](#-lógica-del-juego)
+- [🔧 Patrones de Diseño Implementados](#-patrones-de-diseño-implementados)
+- [🚀 Instalación y Ejecución](#-instalación-y-ejecución)
+- [🎮 Gameplay](#-gameplay)
+- [📊 Especificaciones Técnicas Detalladas](#-especificaciones-técnicas-detalladas)
+- [🎯 Roadmap Futuro](#-roadmap-futuro)
+- [👥 Contribuciones](#-contribuciones)
 
 
 ## 🎯 Características Principales
