@@ -71,25 +71,101 @@ Un juego de ajedrez completo con inteligencia artificial, multijugador online y 
 ## 🛠️ Tecnologías y Arquitectura
 ```bash
 🏗️ Arquitectura del Proyecto
-text
-src/
-├── main/                    # Paquete principal
-│   ├── GamePanel.java       # Motor principal del juego y UI
-│   ├── Board.java          # Renderizado del tablero y temas
-│   ├── AIPlayer.java       # Lógica de inteligencia artificial
-│   ├── OnlineManager.java  # Gestión de conexiones online
-│   └── MusicPlayer.java    # Sistema de audio
-├── piece/                  # Piezas de ajedrez
-│   ├── Piece.java          # Clase base abstracta
-│   ├── Pawn.java          # Peón
-│   ├── Knight.java        # Caballo
-│   ├── Bishop.java        # Alfil
-│   ├── Rook.java          # Torre
-│   ├── Queen.java         # Reina
-│   └── King.java          # Rey
-└── resources/             # Assets del juego
-    ├── piece/             # Imágenes de piezas
-    └── music/             # Archivos de audio
+```bash
+Java_Chess_V2
+├── bin
+│   ├── main
+│   │   ├── AIMove.class
+│   │   ├── AIPlayer.class
+│   │   ├── Board.class
+│   │   ├── GameConfig.class
+│   │   ├── GameHistory.class
+│   │   ├── GameMode.class
+│   │   ├── GamePanel.class
+│   │   ├── Main$1.class
+│   │   ├── Main.class
+│   │   ├── Mouse.class
+│   │   ├── MusicPlayer.class
+│   │   ├── OnlineGame.class
+│   │   ├── OnlineManager.class
+│   │   ├── PieceSetManager.class
+│   │   ├── Type.class
+│   │   ├── User.class
+│   │   └── UserManager.class
+│   ├── music
+│   │   ├── base_music.wav
+│   │   ├── music_2.wav
+│   │   ├── music_3.wav
+│   │   ├── music_4.wav
+│   │   └── music_5.wav
+│   └── piece
+│       ├── b-bishop.png
+│       ├── Bishop.class
+│       ├── b-king.png
+│       ├── b-knight.png
+│       ├── b-pawn.png
+│       ├── b-queen.png
+│       ├── b-rook.png
+│       ├── King.class
+│       ├── Knight.class
+│       ├── Pawn.class
+│       ├── Piece.class
+│       ├── Queen.class
+│       ├── Rook.class
+│       ├── w-bishop.png
+│       ├── w-king.png
+│       ├── w-knight.png
+│       ├── w-pawn.png
+│       ├── w-queen.png
+│       └── w-rook.png
+├── music
+│   └── music
+│       ├── base_music.wav
+│       ├── music_2.wav
+│       ├── music_3.wav
+│       ├── music_4.wav
+│       └── music_5.wav
+├── README.md
+├── res
+│   └── piece
+│       ├── b-bishop.png
+│       ├── b-king.png
+│       ├── b-knight.png
+│       ├── b-pawn.png
+│       ├── b-queen.png
+│       ├── b-rook.png
+│       ├── w-bishop.png
+│       ├── w-king.png
+│       ├── w-knight.png
+│       ├── w-pawn.png
+│       ├── w-queen.png
+│       └── w-rook.png
+└── src
+    ├── main
+    │   ├── AIMove.java
+    │   ├── AIPlayer.java
+    │   ├── Board.java
+    │   ├── GameConfig.java
+    │   ├── GameHistory.java
+    │   ├── GameMode.java
+    │   ├── GamePanel.java
+    │   ├── Main.java
+    │   ├── Mouse.java
+    │   ├── MusicPlayer.java
+    │   ├── OnlineGame.java
+    │   ├── OnlineManager.java
+    │   ├── PieceSetManager.java
+    │   ├── Type.java
+    │   ├── User.java
+    │   └── UserManager.java
+    └── piece
+        ├── Bishop.java
+        ├── King.java
+        ├── Knight.java
+        ├── Pawn.java
+        ├── Piece.java
+        ├── Queen.java
+        └── Rook.java
 ```
 
 ## 🧠 Lógica del Juego
